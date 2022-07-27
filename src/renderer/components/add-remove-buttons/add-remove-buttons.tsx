@@ -36,7 +36,7 @@ export const AddRemoveButtons = ({
         className="remove-button"
         tooltip={removeTooltip}
         onClick={onRemove}
-        data-testid={`${dataTestid}-remove-button`}
+        data-testid={dataTestid && `${dataTestid}-remove-button`}
       >
         <Icon material="remove" />
       </Button>
@@ -49,7 +49,7 @@ export const AddRemoveButtons = ({
         className="add-button"
         tooltip={addTooltip}
         onClick={onAdd}
-        data-testid={`${dataTestid}-add-button`}
+        data-testid={dataTestid && `${dataTestid}-add-button`}
       >
         <Icon material="add" />
       </Button>

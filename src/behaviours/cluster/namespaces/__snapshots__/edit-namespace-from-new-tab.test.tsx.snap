@@ -489,6 +489,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 >
                   <button
                     class="Button add-button primary big round"
+                    data-waiting="false"
                     tooltip="Add Namespace"
                     type="button"
                   >
@@ -1145,6 +1146,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 >
                   <button
                     class="Button add-button primary big round"
+                    data-waiting="false"
                     tooltip="Add Namespace"
                     type="button"
                   >
@@ -1806,6 +1808,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 >
                   <button
                     class="Button add-button primary big round"
+                    data-waiting="false"
                     tooltip="Add Namespace"
                     type="button"
                   >
@@ -2005,6 +2008,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button plain"
                   data-testid="cancel-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Cancel
@@ -2012,6 +2016,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button active outlined"
                   data-testid="save-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Save
@@ -2019,6 +2024,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button primary active"
                   data-testid="save-and-close-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Save & Close
@@ -2536,6 +2542,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 >
                   <button
                     class="Button add-button primary big round"
+                    data-waiting="false"
                     tooltip="Add Namespace"
                     type="button"
                   >
@@ -3242,6 +3249,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 >
                   <button
                     class="Button add-button primary big round"
+                    data-waiting="false"
                     tooltip="Add Namespace"
                     type="button"
                   >
@@ -3491,6 +3499,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button plain"
                   data-testid="cancel-edit-resource-from-tab-for-some-second-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Cancel
@@ -3498,6 +3507,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button active outlined"
                   data-testid="save-edit-resource-from-tab-for-some-second-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Save
@@ -3505,6 +3515,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button primary active"
                   data-testid="save-and-close-edit-resource-from-tab-for-some-second-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Save & Close
@@ -4020,6 +4031,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 >
                   <button
                     class="Button add-button primary big round"
+                    data-waiting="false"
                     tooltip="Add Namespace"
                     type="button"
                   >
@@ -4269,6 +4281,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button plain"
                   data-testid="cancel-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Cancel
@@ -4276,6 +4289,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button active outlined"
                   data-testid="save-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Save
@@ -4283,6 +4297,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button primary active"
                   data-testid="save-and-close-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Save & Close
@@ -4800,6 +4815,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 >
                   <button
                     class="Button add-button primary big round"
+                    data-waiting="false"
                     tooltip="Add Namespace"
                     type="button"
                   >
@@ -5024,6 +5040,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button plain"
                   data-testid="cancel-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Cancel
@@ -5031,6 +5048,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button active outlined"
                   data-testid="save-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   disabled=""
                   type="button"
                 >
@@ -5039,6 +5057,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button primary active"
                   data-testid="save-and-close-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   disabled=""
                   type="button"
                 >
@@ -5548,6 +5567,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 >
                   <button
                     class="Button add-button primary big round"
+                    data-waiting="false"
                     tooltip="Add Namespace"
                     type="button"
                   >
@@ -5754,6 +5774,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button plain"
                   data-testid="cancel-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Cancel
@@ -5761,6 +5782,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button active outlined"
                   data-testid="save-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   disabled=""
                   type="button"
                 >
@@ -5769,6 +5791,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button primary active"
                   data-testid="save-and-close-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   disabled=""
                   type="button"
                 >
@@ -6287,6 +6310,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 >
                   <button
                     class="Button add-button primary big round"
+                    data-waiting="false"
                     tooltip="Add Namespace"
                     type="button"
                   >
@@ -6486,6 +6510,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button plain"
                   data-testid="cancel-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Cancel
@@ -6493,6 +6518,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button active outlined"
                   data-testid="save-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Save
@@ -6500,6 +6526,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button primary active"
                   data-testid="save-and-close-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Save & Close
@@ -7017,6 +7044,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 >
                   <button
                     class="Button add-button primary big round"
+                    data-waiting="false"
                     tooltip="Add Namespace"
                     type="button"
                   >
@@ -7216,6 +7244,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button plain"
                   data-testid="cancel-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Cancel
@@ -7223,6 +7252,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button active outlined"
                   data-testid="save-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Save
@@ -7230,6 +7260,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button primary active"
                   data-testid="save-and-close-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Save & Close
@@ -7747,6 +7778,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 >
                   <button
                     class="Button add-button primary big round"
+                    data-waiting="false"
                     tooltip="Add Namespace"
                     type="button"
                   >
@@ -7946,6 +7978,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button plain"
                   data-testid="cancel-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Cancel
@@ -7953,6 +7986,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button active outlined"
                   data-testid="save-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Save
@@ -7960,6 +7994,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button primary active"
                   data-testid="save-and-close-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Save & Close
@@ -8477,6 +8512,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 >
                   <button
                     class="Button add-button primary big round"
+                    data-waiting="false"
                     tooltip="Add Namespace"
                     type="button"
                   >
@@ -9042,6 +9078,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 >
                   <button
                     class="Button add-button primary big round"
+                    data-waiting="false"
                     tooltip="Add Namespace"
                     type="button"
                   >
@@ -9248,6 +9285,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button plain"
                   data-testid="cancel-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Cancel
@@ -9255,6 +9293,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button active outlined"
                   data-testid="save-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   disabled=""
                   type="button"
                 >
@@ -9263,6 +9302,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 <button
                   class="Button primary active"
                   data-testid="save-and-close-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   disabled=""
                   type="button"
                 >
@@ -9781,6 +9821,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 >
                   <button
                     class="Button add-button primary big round"
+                    data-waiting="false"
                     tooltip="Add Namespace"
                     type="button"
                   >
@@ -10346,6 +10387,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 >
                   <button
                     class="Button add-button primary big round"
+                    data-waiting="false"
                     tooltip="Add Namespace"
                     type="button"
                   >
@@ -10911,6 +10953,7 @@ exports[`cluster/namespaces - edit namespace from new tab when navigating to nam
                 >
                   <button
                     class="Button add-button primary big round"
+                    data-waiting="false"
                     tooltip="Add Namespace"
                     type="button"
                   >

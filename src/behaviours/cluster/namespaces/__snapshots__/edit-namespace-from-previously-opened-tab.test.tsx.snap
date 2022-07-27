@@ -1154,6 +1154,7 @@ exports[`cluster/namespaces - edit namespaces from previously opened tab given t
                 <button
                   class="Button plain"
                   data-testid="cancel-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Cancel
@@ -1161,6 +1162,7 @@ exports[`cluster/namespaces - edit namespaces from previously opened tab given t
                 <button
                   class="Button active outlined"
                   data-testid="save-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Save
@@ -1168,6 +1170,7 @@ exports[`cluster/namespaces - edit namespaces from previously opened tab given t
                 <button
                   class="Button primary active"
                   data-testid="save-and-close-edit-resource-from-tab-for-some-first-tab-id"
+                  data-waiting="false"
                   type="button"
                 >
                   Save & Close

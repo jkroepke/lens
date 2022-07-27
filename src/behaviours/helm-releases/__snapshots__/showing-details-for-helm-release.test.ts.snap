@@ -7237,6 +7237,7 @@ exports[`showing details for helm release given application is started when navi
                 <button
                   class="Button box right upgrade primary"
                   data-testid="helm-release-upgrade-button"
+                  data-waiting="false"
                   type="button"
                 >
                   Upgrade
@@ -7344,6 +7345,7 @@ exports[`showing details for helm release given application is started when navi
               <button
                 class="Button primary"
                 data-testid="helm-release-configuration-save-button"
+                data-waiting="false"
                 type="button"
               >
                 Save
@@ -8457,6 +8459,7 @@ exports[`showing details for helm release given application is started when navi
                 <button
                   class="Button box right upgrade primary"
                   data-testid="helm-release-upgrade-button"
+                  data-waiting="false"
                   type="button"
                 >
                   Upgrade
@@ -8564,6 +8567,7 @@ exports[`showing details for helm release given application is started when navi
               <button
                 class="Button primary"
                 data-testid="helm-release-configuration-save-button"
+                data-waiting="false"
                 type="button"
               >
                 Save
@@ -9677,6 +9681,7 @@ exports[`showing details for helm release given application is started when navi
                 <button
                   class="Button box right upgrade primary"
                   data-testid="helm-release-upgrade-button"
+                  data-waiting="false"
                   type="button"
                 >
                   Upgrade
@@ -9784,6 +9789,7 @@ exports[`showing details for helm release given application is started when navi
               <button
                 class="Button waiting primary"
                 data-testid="helm-release-configuration-save-button"
+                data-waiting="true"
                 type="button"
               >
                 Save
@@ -10724,6 +10730,7 @@ exports[`showing details for helm release given application is started when navi
                 <button
                   class="Button box right upgrade primary"
                   data-testid="helm-release-upgrade-button"
+                  data-waiting="false"
                   type="button"
                 >
                   Upgrade
@@ -10831,6 +10838,7 @@ exports[`showing details for helm release given application is started when navi
               <button
                 class="Button primary"
                 data-testid="helm-release-configuration-save-button"
+                data-waiting="false"
                 type="button"
               >
                 Save
@@ -11771,6 +11779,7 @@ exports[`showing details for helm release given application is started when navi
                 <button
                   class="Button box right upgrade primary"
                   data-testid="helm-release-upgrade-button"
+                  data-waiting="false"
                   type="button"
                 >
                   Upgrade
@@ -11879,6 +11888,7 @@ exports[`showing details for helm release given application is started when navi
               <button
                 class="Button primary"
                 data-testid="helm-release-configuration-save-button"
+                data-waiting="false"
                 disabled=""
                 type="button"
               >
@@ -12993,6 +13003,7 @@ exports[`showing details for helm release given application is started when navi
                 <button
                   class="Button box right upgrade primary"
                   data-testid="helm-release-upgrade-button"
+                  data-waiting="false"
                   type="button"
                 >
                   Upgrade
@@ -13100,6 +13111,7 @@ exports[`showing details for helm release given application is started when navi
               <button
                 class="Button primary"
                 data-testid="helm-release-configuration-save-button"
+                data-waiting="false"
                 type="button"
               >
                 Save

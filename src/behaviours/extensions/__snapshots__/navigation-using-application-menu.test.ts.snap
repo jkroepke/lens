@@ -81,13 +81,13 @@ exports[`extensions - navigation using application menu renders 1`] = `
               </h2>
               <p>
                 To get you started we have auto-detected your clusters in your
-
+                 
                 kubeconfig file and added them to the catalog, your centralized
-
+                 
                 view for managing all your cloud-native resources.
                 <br />
                 <br />
-                If you have any questions or feedback, please join our
+                If you have any questions or feedback, please join our 
                 <a
                   class="link"
                   href="https://join.slack.com/t/k8slens/shared_invite/zt-wcl8jq3k-68R5Wcmk1o95MLBE5igUDQ"
@@ -273,7 +273,7 @@ exports[`extensions - navigation using application menu when navigating to exten
                 class="notice"
               >
                 <p>
-                  Add new features via Lens Extensions. Check out the
+                  Add new features via Lens Extensions. Check out the 
                   <a
                     href="https://docs.k8slens.dev/main/extensions/"
                     rel="noreferrer"
@@ -281,7 +281,7 @@ exports[`extensions - navigation using application menu when navigating to exten
                   >
                     docs
                   </a>
-                   and list of
+                   and list of 
                   <a
                     href="https://github.com/lensapp/lens-extensions/blob/main/README.md"
                     rel="noreferrer"
@@ -297,7 +297,7 @@ exports[`extensions - navigation using application menu when navigating to exten
                   class="SubTitle"
                 >
                   Name or file path or URL to an extension package (tar, tgz)
-
+                   
                 </div>
                 <div
                   class="inputs"
